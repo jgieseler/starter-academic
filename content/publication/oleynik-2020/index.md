@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-03-22T19:26:02+02:00
+lastmod: 2021-03-22T20:37:16+02:00
 featured: false
 draft: false
 
@@ -40,10 +40,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T17:26:02.196829Z'
+publishDate: '2021-03-22T18:37:16.542085Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: RADMON is a small radiation monitor designed and assembled by students of
+  University of Turku and University of Helsinki. It is flown on-board Aalto-1, a
+  3-unit CubeSat in low Earth orbit at about 500 km altitude. The detector unit of
+  the instrument consists of two detectors, a Si solid-state detector and a CsI(Tl)
+  scintillator, and utilizes the ΔE-E technique to determine the total energy and
+  species of each particle hitting the detector. We present the results of the on-ground
+  and in-flight calibration campaigns of the instrument, as well as the characterization
+  of its response through extensive simulations within the Geant4 framework. The overall
+  energy calibration margin achieved is about 5%. The full instrument response to
+  protons and electrons is presented and the issue of proton contamination of the
+  electron channels is quantified and discussed.
 publication: '*Advances in Space Research*'
 url_pdf: https://doi.org/10.1016%2Fj.asr.2019.11.020
 doi: 10.1016/j.asr.2019.11.020

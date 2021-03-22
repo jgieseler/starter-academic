@@ -76,7 +76,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-03-22T19:26:03+02:00
+lastmod: 2021-03-22T20:37:18+02:00
 featured: false
 draft: false
 
@@ -94,9 +94,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T17:26:03.555502Z'
+publishDate: '2021-03-22T18:37:17.870562Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Ulysses, launched on 6 October 1990, was placed in an elliptical, high inclined
+  (80.2) orbit around the Sun, and was switched off in June 2009. It has been the
+  only spacecraft exploring high-latitude regions of the inner heliosphere. The Kiel
+  Electron Telescope (KET) aboard Ulysses measures electrons from 3 MeV to a few GeV
+  and protons and helium in the energy range from 6 MeV/nucleon to above 2 GeV/nucleon.
+  The PAMELA (Payload for Antimatter Matter Exploration and Light-nuclei Astrophysics)
+  space borne experiment was launched on 15 June 2006 and is continuously collecting
+  data since then. The apparatus measures electrons, positrons, protons, anti-protons
+  and heavier nuclei from about 100 MeV to several hundreds of GeV. Thus the combination
+  of Ulysses and PAMELA measurements is ideally suited to determine the spatial gradients
+  during the extended minimum of solar cycle 23. For protons in the rigidity interval
+  1.6–1.8 GV we find a radial gradient of 2.7%/AU and a latitudinal gradient of− 0.024%/degree.
+  Although the latitudinal gradient is as expected negative, its value is much smaller
+  than predicted by current particle propagation models. This result is of relevance
+  for the study of propagation parameters in the inner heliosphere.
 publication: '*Astrophysics and Space Sciences Transactions*'
+doi: 10.5194/astra-7-425-2011
 ---

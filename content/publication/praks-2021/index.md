@@ -42,7 +42,7 @@ tags:
 - '"Electrostatic plasma brake"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-22T19:26:02+02:00
+lastmod: 2021-03-22T20:37:16+02:00
 featured: false
 draft: false
 
@@ -60,7 +60,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T17:26:02.052660Z'
+publishDate: '2021-03-22T18:37:16.395038Z'
 publication_types:
 - '2'
 abstract: 'The design, integration, testing and launch of the first Finnish satellite

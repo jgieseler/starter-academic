@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-03-22T19:26:02+02:00
+lastmod: 2021-03-22T20:37:16+02:00
 featured: false
 draft: false
 
@@ -41,10 +41,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-22T17:26:02.341313Z'
+publishDate: '2021-03-22T18:37:16.685849Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The Radiation Monitor (RADMON) on-board Aalto-1 CubeSat is an energetic
+  particle detector that fulfills the requirements of small size, low power consumption
+  and low budget. Aalto-1 was launched on 23 June 2017 to a sun-synchronous polar
+  orbit with 97.4° inclination and an average altitude of somewhat above 500 km. RADMON
+  has been measuring integral particle intensities from October 2017 to May 2018 with
+  electron energies starting at low-MeV and protons from 10 MeV upwards. In this paper,
+  we present first electron and proton intensity maps obtained over the mission period.
+  In addition, the response of RADMON measurements to magnetospheric dynamics are
+  analyzed, and the electron observations are compared with corresponding measurements
+  by the PROBA-V/EPT mission. Finally, we describe the RADMON data set, which is made
+  publicly available.
 publication: '*Advances in Space Research*'
 url_pdf: https://doi.org/10.1016%2Fj.asr.2019.11.023
 doi: 10.1016/j.asr.2019.11.023
