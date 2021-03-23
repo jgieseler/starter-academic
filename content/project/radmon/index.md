@@ -1,6 +1,6 @@
 ---
 title: Aalto-1/RADMON data set 2017/2018
-summary: Public data set of RADMON energetic particle measurements onboard CubeSat Aalto-1
+summary: Public data set of RADiation MONitor (RADMON) measurements onboard the 1st Finnish CubeSat Aalto-1
 tags:
 - CubeSat
 - Aalto-1
@@ -40,6 +40,6 @@ url_video: ""
 #slides: example
 ---
 
-You can find the public data set of RADMON measurements of energetic particles (electrons and protons) onboard CubeSat Aalto-1 in Low Eart Orbit (LEO) in 2017-2018 [here at Zenodo](https://zenodo.org/record/3541628).
+You can find the public data set of RADiation MONitor (RADMON) measurements of energetic charged particles (electrons and protons) onboard the 1st Finnish CubeSat Aalto-1 in Low Eart Orbit (LEO) in 2017-2018 [here at Zenodo](https://zenodo.org/record/3541628).
 
 
