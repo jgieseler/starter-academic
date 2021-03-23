@@ -20,9 +20,10 @@ authors:
 - K. Scherer
 - R.~D. Strauss
 tags:
-- '"corotating interaction regions"'
-- '"galactic cosmic rays"'
-- '"jovian electrons"'
+- CIR
+- Jovian Electrons
+- Galactic Cosmic Rays
+- Solar Modulation
 categories: []
 date: '2013-01-01'
 lastmod: 2021-03-22T20:37:17+02:00

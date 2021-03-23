@@ -17,7 +17,9 @@ authors:
 - R. Fuchs
 - H. Krüger
 - H. Moraal
-tags: []
+tags: 
+- Galactic Cosmic Rays
+- Solar Modulation
 categories: []
 date: '2015-01-01'
 lastmod: 2021-03-22T20:37:17+02:00

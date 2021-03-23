@@ -20,7 +20,10 @@ authors:
 - Bagus Riwanto
 - Nemanja Jovanovic
 - M. Rizwan Mughal
-tags: []
+tags: 
+- Aalto-1
+- CubeSat
+- Radiation Monitor (RADMON)
 categories: []
 date: '2020-07-01'
 lastmod: 2021-03-22T20:37:16+02:00

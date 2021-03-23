@@ -9,7 +9,10 @@ authors:
 - J. Gieseler
 - B. Heber
 - K. Herbst
-tags: []
+tags: 
+- Galactic Cosmic Rays
+- Force Field
+- Solar Modulation
 categories: []
 date: '2017-01-01'
 lastmod: 2021-03-22T20:37:17+02:00

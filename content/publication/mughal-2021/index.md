@@ -26,13 +26,13 @@ authors:
 - J. -O. Lill
 - J. M. K. Slotte
 tags:
-- '"Aalto-1"'
-- '"CubeSat"'
-- '"In-orbit results"'
-- '"Lessons learned"'
-- '"Aalto Spectral Imager"'
-- '"Radiation Monitor"'
-- '"Electrostatic Plasma Brake"'
+- Aalto-1
+- CubeSat
+- In-orbit results
+- Lessons learned
+- Aalto Spectral Imager
+- Radiation Monitor (RADMON)
+- Electrostatic Plasma Brake
 categories: []
 date: '2021-01-01'
 lastmod: 2021-03-22T20:37:16+02:00

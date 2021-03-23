@@ -14,7 +14,9 @@ authors:
 - K. Scherer
 - M.S. Potgieter
 - S.E.S. Ferreira
-tags: []
+tags: 
+- Galactic Cosmic Rays
+- Solar Modulation
 categories: []
 date: '2009-01-01'
 lastmod: 2021-03-22T20:37:18+02:00

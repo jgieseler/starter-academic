@@ -12,7 +12,9 @@ authors:
 - V.D. Felice
 - B. Heber
 - M. Martucci
-tags: []
+tags: 
+- Gradients
+- Galactic Cosmic Rays
 categories: []
 date: '2013-01-01'
 lastmod: 2021-03-22T20:37:17+02:00

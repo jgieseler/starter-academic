@@ -73,7 +73,9 @@ authors:
 - G. Zampa
 - N. Zampa
 - V.G. Zverev
-tags: []
+tags: 
+- Gradients
+- Galactic Cosmic Rays
 categories: []
 date: '2011-01-01'
 lastmod: 2021-03-22T20:37:18+02:00

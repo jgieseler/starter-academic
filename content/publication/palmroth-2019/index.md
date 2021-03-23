@@ -66,7 +66,11 @@ authors:
 - E. Valtonen
 - P. Virtanen
 - T. Westerlund
-tags: []
+tags: 
+- FORESAIL
+- CubeSat
+- PATE
+- Electrostatic Plasma Brake
 categories: []
 date: '2019-01-01'
 lastmod: 2021-03-22T20:37:16+02:00

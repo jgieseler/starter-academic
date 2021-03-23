@@ -8,13 +8,15 @@ authors:
 - B. Heber
 - J. Gieseler
 - P. Dunzlaef
-- R. Gòmez-Herrero
+- R. Gómez-Herrero
 - A. Klassen
 - R. Müller-Mellin
 - R.A. Mewaldt
 - M.S. Potgieter
 - S.E.S. Ferreira
-tags: []
+tags: 
+- Gradients
+- Galactic Cosmic Rays
 categories: []
 date: '2008-01-01'
 lastmod: 2021-03-22T20:37:18+02:00

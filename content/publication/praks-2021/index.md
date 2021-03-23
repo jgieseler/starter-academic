@@ -33,13 +33,12 @@ authors:
 - H. Kettunen
 - A. Virtanen
 tags:
-- '"Aalto-1"'
-- '"CubeSat"'
-- '"Hyperspectral"'
-- '"Radiation"'
-- '"Aalto spectral imager"'
-- '"Radiation monitor"'
-- '"Electrostatic plasma brake"'
+- Aalto-1
+- CubeSat
+- Hyperspectral
+- Aalto spectral imager
+- Radiation Monitor (RADMON)
+- Electrostatic plasma brake
 categories: []
 date: '2021-01-01'
 lastmod: 2021-03-22T20:37:16+02:00

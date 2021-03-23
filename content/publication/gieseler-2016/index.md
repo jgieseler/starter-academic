@@ -9,10 +9,9 @@ authors:
 - J. Gieseler
 - B. Heber
 tags:
-- '"cosmic rays"'
-- '"interplanetary medium"'
-- '"Sun: heliosphere"'
-- '"Sun: activity"'
+- Gradients
+- Galactic Cosmic Rays
+- Solar Modulation
 categories: []
 date: '2016-05-01'
 lastmod: 2021-03-22T20:37:17+02:00

@@ -4,7 +4,7 @@ summary: Public data set of RADMON energetic particle measurements onboard CubeS
 tags:
 - CubeSat
 - Aalto-1
-- RADMON
+- Radiation Monitor (RADMON)
 date: "2019-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
