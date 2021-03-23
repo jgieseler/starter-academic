@@ -57,5 +57,6 @@ abstract: Ulysses, launched in 1990 October in the maximum phase of solar cycle 
   nearly isotropic distribution of protons in 2007-2008 is consistent with an isotropic
   distribution of electrons from 1994 to 1995.
 publication: '*Astrophysical Journal*'
-doi: 2008ApJ...689.1443H
+doi: 10.1086/592596
+url_pdf : https://iopscience.iop.org/article/10.1086/592596/pdf
 ---

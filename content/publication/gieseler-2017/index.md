@@ -52,4 +52,5 @@ abstract: 'On their way through the heliosphere, galactic cosmic rays (GCRs) are
   is a proxy for the solar activity ranging back thousands of years.'
 publication: '*Journal of Geophysical Research: Space Physics*'
 doi: 10.1002/2017JA024763
+url_pdf : https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024763
 ---

@@ -113,4 +113,5 @@ abstract: Today, the near‐Earth space is facing a paradigm change as the numbe
   cost‐efficient deorbiting technology.
 publication: '*Journal of Geophysical Research: Space Physics*'
 doi: 10.1029/2018JA026354
+url_pdf : https://arxiv.org/pdf/1905.09600.pdf
 ---

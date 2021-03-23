@@ -56,6 +56,6 @@ abstract: The Radiation Monitor (RADMON) on-board Aalto-1 CubeSat is an energeti
   by the PROBA-V/EPT mission. Finally, we describe the RADMON data set, which is made
   publicly available.
 publication: '*Advances in Space Research*'
-url_pdf: https://doi.org/10.1016%2Fj.asr.2019.11.023
+url_pdf: https://arxiv.org/pdf/1911.07586.pdf
 doi: 10.1016/j.asr.2019.11.023
 ---

@@ -54,4 +54,5 @@ abstract: 'Context: During the transition from solar cycle 23 to 24 from 2006 to
   cosmic ray transport in the inner heliosphere.'
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/201527972
+url_pdf : https://www.aanda.org/articles/aa/pdf/2016/05/aa27972-15.pdf
 ---

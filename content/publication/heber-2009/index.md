@@ -61,4 +61,5 @@ abstract: During the latest Ulysses out-of-ecliptic orbit the solar wind density
   angle reaches values below 10°.
 publication: '*Astrophysical Journal*'
 doi: 10.1088/0004-637X/699/2/1956
+url_pdf : https://iopscience.iop.org/article/10.1088/0004-637X/699/2/1956/pdf
 ---

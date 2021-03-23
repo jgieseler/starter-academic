@@ -114,4 +114,5 @@ abstract: Ulysses, launched on 6 October 1990, was placed in an elliptical, high
   for the study of propagation parameters in the inner heliosphere.
 publication: '*Astrophysics and Space Sciences Transactions*'
 doi: 10.5194/astra-7-425-2011
+url_pdf : http://www.astrophys-space-sci-trans.net/7/425/2011/astra-7-425-2011.pdf
 ---

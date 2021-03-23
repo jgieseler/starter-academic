@@ -75,4 +75,5 @@ abstract: "Neutron monitors (NMs) are ground-based devices to measure the variat
   \ the yield function of [4]."
 publication: '*Journal of Physics: Conference Series*'
 doi: 10.1088/1742-6596/632/1/012057
+url_pdf : https://iopscience.iop.org/article/10.1088/1742-6596/632/1/012057/pdf
 ---

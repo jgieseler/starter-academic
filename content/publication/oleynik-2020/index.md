@@ -55,6 +55,6 @@ abstract: RADMON is a small radiation monitor designed and assembled by students
   protons and electrons is presented and the issue of proton contamination of the
   electron channels is quantified and discussed.
 publication: '*Advances in Space Research*'
-url_pdf: https://doi.org/10.1016%2Fj.asr.2019.11.020
+url_pdf: https://arxiv.org/pdf/1911.07550.pdf
 doi: 10.1016/j.asr.2019.11.020
 ---
