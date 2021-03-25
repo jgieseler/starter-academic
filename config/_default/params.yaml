@@ -25,7 +25,7 @@ phone: +358 50 5266 449
 address:
   street: Vesilinnantie 5
   city: Turku
-  postcode: '20014'
+  postcode: '20500'
   country: Finland
   country_code: FI
 coordinates:
@@ -65,7 +65,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '15:04'
-address_format: de
+address_format: fi
 
 # Site features
 
