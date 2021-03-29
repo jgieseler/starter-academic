@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Heliospheric Physics
+  - course: Dr. rer. nat. (PhD) in Heliospheric Physics
     institution: University of Kiel, Germany
     year: 2018
   - course: Diploma in Physics
