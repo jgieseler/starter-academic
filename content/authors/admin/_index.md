@@ -52,9 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JanGieseler
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/jgieseler
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jgieseler
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
