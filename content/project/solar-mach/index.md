@@ -27,10 +27,6 @@ links:
 #   icon_pack: ai
 #   name: 10.1002/2017JA024763
 #   url: 'https://doi.org/10.1002/2017JA024763'
-- icon: sun
-  icon_pack: fas
-  name: Web-app
-  url: https://solar-mach.github.io
 - icon: chart-line
   icon_pack: fas
   name: Web-app
