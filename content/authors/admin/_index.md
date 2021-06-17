@@ -20,6 +20,7 @@ organizations:
 interests:
 - Heliospheric Physics
 - Radiation Belts / Magnetosphere
+- Solar energetic particles
 - Galactic Cosmic Rays (GCR)
 
 # Education to show in About widget
@@ -77,6 +78,4 @@ highlight_name: true
 
 
 
-I am a Postdoctoral Researcher at the [Space Research Laboratory ](https://srl.utu.fi) at the University of Turku in Finland. As a member of the *Finnish Centre of Ex­cel­lence in Research of Sustainable Space* ([FORESAIL](https://www2.helsinki.fi/en/researchgroups/finnish-centre-of-excellence-in-research-of-sustainable-space)) I am currently investigating charged particles measured in the vicinity of Earth using CubeSats. 
-
-
+I am a Postdoctoral Researcher at the [Space Research Laboratory ](https://srl.utu.fi) at the University of Turku in Finland. As a member of the *Finnish Centre of Ex­cel­lence in Research of Sustainable Space* ([FORESAIL](https://www2.helsinki.fi/en/researchgroups/finnish-centre-of-excellence-in-research-of-sustainable-space)) I am currently investigating charged particles measured in the vicinity of Earth using CubeSats. I am also involved in the recently started *Solar energetic particle analysis platform for the inner heliosphere* ([SERPENTINE](https://serpentine-h2020.eu)) project that aims to answer outstanding questions about the origin of Solar Energetic Particle (SEP) events.
