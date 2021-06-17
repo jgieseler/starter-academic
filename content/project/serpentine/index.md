@@ -16,6 +16,10 @@ image:
   alt_text: SERPENTINE logo
 
 links:
+- icon: external-link-alt
+  icon_pack: fas
+  name: Webpage
+  url: https://serpentine-h2020.eu
 - icon: twitter
   icon_pack: fab
   name: Follow

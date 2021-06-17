@@ -14,6 +14,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: external-link-alt
+  icon_pack: fas
+  name: Webpage
+  url: https://www2.helsinki.fi/en/researchgroups/finnish-centre-of-excellence-in-research-of-sustainable-space
 - icon: twitter
   icon_pack: fab
   name: Follow
