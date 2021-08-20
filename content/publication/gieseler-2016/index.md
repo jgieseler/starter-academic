@@ -35,22 +35,10 @@ projects: []
 publishDate: '2021-03-22T18:37:17.131243Z'
 publication_types:
 - '2'
-abstract: 'Context: During the transition from solar cycle 23 to 24 from 2006 to 2009,
-  the Sun was in an unusual solar minimum with very low activity over a long period.
-  These exceptional conditions included a very low interplanetary magnetic field (IMF)
-  strength and a high tilt angle, which both play an important role in the modulation
-  of galactic cosmic rays (GCR) in the heliosphere. Thus, the radial and latitudinal
-  gradients of GCRs are very much expected to depend not only on the solar magnetic
-  epoch, but also on the overall modulation level. Aims: We determine the non-local
-  radial and the latitudinal gradients of protons in the rigidity range from ~0.45
-  to 2 GV. Methods: This was accomplished by using data from the satellite-borne experiment
-  Payload for Antimatter Matter Exploration and Light-nuclei Astrophysics (PAMELA)
-  at Earth and the Kiel Electron Telescope (KET) onboard Ulysses on its highly inclined
-  Keplerian orbit around the Sun with the aphelion at Jupiter’s orbit. Results: In
-  comparison to the previous A> 0 solar magnetic epoch, we find that the absolute
-  value of the latitudinal gradient is lower at higher and higher at lower rigidities.
-  This energy dependence is therefore a crucial test for models that describe the
-  cosmic ray transport in the inner heliosphere.'
+abstract: '*Context.* During the transition from solar cycle 23 to 24 from 2006 to 2009, the Sun was in an unusual solar minimum with very low activity over a long period. These exceptional conditions included a very low interplanetary magnetic field (IMF) strength and a high tilt angle, which both play an important role in the modulation of galactic cosmic rays (GCR) in the heliosphere. Thus, the radial and latitudinal gradients of GCRs are very much expected to depend not only on the solar magnetic epoch, but also on the overall modulation level.<br>
+  *Aims.* We determine the non-local radial and the latitudinal gradients of protons in the rigidity range from ~0.45 to 2 GV.<br>
+  *Methods.* This was accomplished by using data from the satellite-borne experiment Payload for Antimatter Matter Exploration and Light-nuclei Astrophysics (PAMELA) at Earth and the Kiel Electron Telescope (KET) onboard Ulysses on its highly inclined Keplerian orbit around the Sun with the aphelion at Jupiter’s orbit.<br>
+  *Results.* In comparison to the previous A> 0 solar magnetic epoch, we find that the absolute value of the latitudinal gradient is lower at higher and higher at lower rigidities. This energy dependence is therefore a crucial test for models that describe the cosmic ray transport in the inner heliosphere.'
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/201527972
 url_pdf : https://www.aanda.org/articles/aa/pdf/2016/05/aa27972-15.pdf

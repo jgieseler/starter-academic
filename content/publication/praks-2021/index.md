@@ -79,5 +79,5 @@ abstract: 'The design, integration, testing and launch of the first Finnish sate
   the ground segment & services that were developed by Aalto-1 team.'
 publication: '*Acta Astronautica*'
 url_pdf: https://arxiv.org/pdf/2101.10691.pdf
-doi: https://doi.org/10.1016/j.actaastro.2020.11.042
+doi: 10.1016/j.actaastro.2020.11.042
 ---

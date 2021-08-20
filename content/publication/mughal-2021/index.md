@@ -68,5 +68,5 @@ abstract: The in-orbit results and lessons learned of the first Finnish satellit
   results, as well as lessons learned that will be used in future missions.
 publication: '*Acta Astronautica*'
 url_pdf: https://arxiv.org/pdf/2101.07722.pdf
-doi: https://doi.org/10.1016/j.actaastro.2020.11.044
+doi: 10.1016/j.actaastro.2020.11.044
 ---

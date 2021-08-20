@@ -20,8 +20,8 @@ organizations:
 interests:
 - Heliospheric Physics
 - Radiation Belts / Magnetosphere
-- Solar energetic particles
-- Galactic Cosmic Rays (GCR)
+- Solar Energetic Particles
+- Galactic Cosmic Rays
 
 # Education to show in About widget
 education:
