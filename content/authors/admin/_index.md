@@ -44,9 +44,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-1848-7067
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=fWciazQAAAAJ
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=fWciazQAAAAJ
 - icon: ads
   icon_pack: ai
   link: https://ui.adsabs.harvard.edu/search/q=author%3A"Gieseler%2C Jan"
