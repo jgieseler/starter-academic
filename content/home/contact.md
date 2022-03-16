@@ -17,10 +17,10 @@ content:
   autolink: true
   
   # Email form provider
-#  form:
-#    provider: formspree
-#    formspree:
-#      id: xknkwjvj
+  form:
+    provider: formspree
+    formspree:
+      id: xknkwjvj
 #    netlify:
       # Enable CAPTCHA challenge to reduce spam?
 #      captcha: false
