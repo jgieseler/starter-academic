@@ -18,7 +18,7 @@ authors:
 - A. Kopp
 - M. Potgieter
 - K. Scherer
-- R.~D. Strauss
+- R. D. Strauss
 tags:
 - CIR
 - Jovian Electrons
