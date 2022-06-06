@@ -61,7 +61,7 @@ abstract: '*Context.* Sheath regions ahead of coronal mass ejections (CMEs) are 
 *Results.* Energetic ion enhancements were identified in the sheath, but at different locations within the sheath structure at Solar Orbiter and L1. Magnetic fluctuation amplitudes at inertial-range scales increased in the sheath relative to the solar wind upstream of the shock, as is typically observed. However, when normalised to the local mean field, fluctuation amplitudes did not increase significantly; magnetic compressibility of fluctuation also did not increase within the sheath. Various substructures were found to be embedded within the sheath at the different spacecraft, including multiple heliospheric current sheet (HCS) crossings and a small-scale flux rope. At L1, the ion flux enhancement was associated with the HCS crossings, while at Solar Orbiter, the ion enhancement occurred within a compressed, small-scale flux rope. 
 *Conclusions.* Several internal smaller-scale substructures and clear difference in their occurrence and properties between the used spacecraft was identified within the analyzed CME-driven sheath. These substructures are favourable locations for the energization of charged particles in interplanetary space. In particular, substructures that are swept from the upstream solar wind and compressed into the sheath can act as effective acceleration sites. A possible acceleration mechanism is betatron acceleration associated with a small-scale flux rope and warped HCS compressed in the sheath, while the contribution of shock acceleration to the latter cannot be excluded.'
 publication: '*Astronomy & Astrophysics*'
-# url_pdf: https://arxiv.org/pdf/2101.10691.pdf
 doi: 10.1051/0004-6361/202140838
-url_pdf : https://arxiv.org/pdf/2112.09472.pdf
+# url_pdf : https://arxiv.org/pdf/2112.09472.pdf
+url_pdf: https://www.aanda.org/articles/aa/pdf/2021/12/aa40838-21.pdf
 ---
