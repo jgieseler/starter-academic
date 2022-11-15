@@ -50,12 +50,15 @@ social:
 - icon: ads
   icon_pack: ai
   link: https://ui.adsabs.harvard.edu/search/q=author%3A"Gieseler%2C Jan"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JanGieseler
 - icon: github
   icon_pack: fab
   link: https://github.com/jgieseler
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JanGieseler
+- icon: mastodon
+  icon_pack: fab
+  link: https://fediscience.org/@JanGieseler
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/

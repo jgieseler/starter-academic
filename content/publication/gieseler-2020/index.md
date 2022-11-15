@@ -43,7 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["RADMON"]
 publishDate: '2021-03-22T18:37:16.685849Z'
 publication_types:
 - '2'
