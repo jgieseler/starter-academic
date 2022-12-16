@@ -14,6 +14,7 @@ tags:
 - HDPmt
 - Python
 - SERPENTINE
+- Shock
 categories: []
 date: '2022-10-02'
 lastmod: 2022-10-02T17:00:00+02:00
