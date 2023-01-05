@@ -50,6 +50,9 @@ social:
 - icon: ads
   icon_pack: ai
   link: https://ui.adsabs.harvard.edu/search/q=author%3A"Gieseler%2C Jan"
+# - icon: arxiv
+#   icon_pack: ai
+#   link: https://arxiv.org/a/gieseler_j_1.html
 - icon: github
   icon_pack: fab
   link: https://github.com/jgieseler

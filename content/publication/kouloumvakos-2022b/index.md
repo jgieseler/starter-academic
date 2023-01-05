@@ -44,5 +44,5 @@ abstract: '*Context.* Fast and wide coronal mass ejections (CMEs) and CME-driven
 *Results.* We show that the extension of a wave close to the solar surface may not always indicate when a magnetic connection is established for the first time. The first connection times depend on both the kinematics and geometry of the propagating wave. A shock-related SEP release process can produce a large event-to-event variation in the relationship between the connection and release times and the separation angle to the eruption site. The evolution of the shock geometry and shock strength at the field lines connected to an observer are important parameters for the observed characteristic of the release times'
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202244363 
-url_pdf : https://www.aanda.org/articles/aa/pdf/forth/aa44363-22.pdf
+url_pdf : https://www.aanda.org/articles/aa/pdf/2023/01/aa44363-22.pdf
 ---
