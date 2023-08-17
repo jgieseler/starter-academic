@@ -52,4 +52,7 @@ abstract: 'The Solar MAgnetic Connection HAUS1 tool (Solar-MACH) is an open-sour
 publication: '*Front. Astron. Space Sci.*'
 doi: 10.3389/fspas.2022.1058810
 url_pdf : https://www.frontiersin.org/articles/10.3389/fspas.2022.1058810/pdf
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2210.00819
 ---
