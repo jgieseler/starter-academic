@@ -52,7 +52,7 @@ authors:
 - R. Vainio
 - A. Vecchio
 - A. M. Veronig
-- N. Wijsen"
+- N. Wijsen
 tags:
 - SEP
 - SERPENTINE
