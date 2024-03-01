@@ -61,4 +61,7 @@ If you use this data, please refer to and cite **BOTH** following publications:
 ***
 
 - [**DOWNLOAD DATA**](https://www.ieap.uni-kiel.de/et/ag-heber/cosmicrays/ds01.txt)
+- [**Zenodo mirror**](https://doi.org/10.5281/zenodo.1480508)
+
+
 
