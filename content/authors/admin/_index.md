@@ -62,6 +62,9 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://fediscience.org/@JanGieseler
+#- icon: square
+#  icon_pack: fa
+#  link: https://bsky.app/profile/jangieseler.bsky.social
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
