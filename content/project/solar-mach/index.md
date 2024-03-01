@@ -33,7 +33,11 @@ links:
   url: https://solar-mach.github.io
 - icon: github
   icon_pack: fab
-  name: GitHub Repository
+  name: Web-app repository
+  url: https://github.com/jgieseler/Solar-MACH
+- icon: github
+  icon_pack: fab
+  name: Python package repository
   url: https://github.com/jgieseler/Solar-MACH
 url_code: 
 url_pdf: 
@@ -48,8 +52,11 @@ url_video:
 #slides: example
 ---
 
-The [*Solar MAgnetic Connection Haus* (Solar-MACH) tool](https://solar-mach.github.io) is a multi-spacecraft longitudinal configuration plotter. It was originally developed at the University of Kiel, Germany, and further discussed within the [ESA Heliophysics Archives USer (HAUS)](https://www.cosmos.esa.int/web/esdc/archives-user-groups/heliophysics) group. It is now opened to everyone ([original code](https://github.com/esdc-esac-esa-int/Solar-MACH)).
+The [*Solar MAgnetic Connection Haus* (Solar-MACH) tool](https://solar-mach.github.io) is a multi-spacecraft longitudinal configuration plotter. It was originally developed at the University of Kiel, Germany, and further discussed within the [ESA Heliophysics Archives USer (HAUS)](https://www.cosmos.esa.int/web/esdc/archives-user-groups/heliophysics) group. It is now openly developed at GitHub.
 
-This version has been [forked and modified](https://github.com/jgieseler/Solar-MACH) by me in order to run as a web-app using [Streamlit](https://streamlit.io) amd with slightly extended functionality (e.g., provide reference longitude in Stonyhurst coordinates, download bodies coordinates list).
+The main functionality is provided through [a Python package](https://github.com/jgieseler/solarmach) available at [PyPI](https://pypi.org/project/solarmach/) and [conda-forge](https://anaconda.org/conda-forge/solarmach/). In addition, [a Streamlit version](https://github.com/jgieseler/Solar-MACH) is available that allows to access most functionalities as a web-app at [solar-mach.github.io](https://solar-mach.github.io).
 
-Powered by: [<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="25">](https://matplotlib.org)[<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="30">](https://streamlit.io)[<img src="https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_logo_landscape.svg" height="30">](https://sunpy.org)
+If you want to cite Solar-MACH or learn more about it, please refer to the publication [Gieseler et al. (2023)]({{< relref "/publication/gieseler-2023" >}})!
+
+
+Powered by: [<img src="https://matplotlib.org/_static/logo_dark.svg" height="15">](https://matplotlib.org)[<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="15">](https://streamlit.io)[<img src="https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_logo_landscape.svg" height="15">](https://sunpy.org)[<img src="https://raw.githubusercontent.com/SciQLop/speasy/main/logo/logo_speasy.svg" height="15">](https://pypi.org/project/speasy/)[<img src="https://solar-mach.streamlit.app/~/+/app/static/amdaPrint.png" height="15">](http://amda.irap.omp.eu/)
