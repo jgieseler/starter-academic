@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?user=fWciazQAAAAJ
 - icon: ads
   icon_pack: ai
-  link: https://ui.adsabs.harvard.edu/search/q=author%3A"Gieseler%2C Jan"
+  link: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database:"astronomy"&fq={!type=aqp v=$fq_database}&fq_database=(database:"astronomy")&q=author:"Gieseler, Jan"
 # - icon: arxiv
 #   icon_pack: ai
 #   link: https://arxiv.org/a/gieseler_j_1.html
