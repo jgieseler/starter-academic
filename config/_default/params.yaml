@@ -139,12 +139,12 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 16
-# marketing:
-#   google_analytics: ''
-#   google_tag_manager: ''
-#   google_site_verification: ''
-#   baidu_site_verification: ''
-#   baidu_tongji: ''
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
